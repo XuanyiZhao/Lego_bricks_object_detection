@@ -7,7 +7,7 @@
 ### Sub-Task - 50 Classes LEGO Single Bricks Classification
 * Use Logistic Regression, Simple Feed Forward Neural Networks, CNN, Transfer Learning on ResNet-18
 | Models | Accuracy | Loss |
-| ------------- | ------------- | |
+| ------------- | ------------- | ------------- |
 | Logistic Regression | 0.3304 | 0.0318 |
 | Feed Forward Neural Networks | 0.6646 | 0.0084 |
 | CNN | 0.7084 | 0.0031 |
