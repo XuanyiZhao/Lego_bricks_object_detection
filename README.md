@@ -1,4 +1,4 @@
-# Object Detection on LEGO images
+# Object Detection on LEGO Images
 
 ## Video Demo
 * https://youtu.be/WZs-iwlfsUE
