@@ -7,7 +7,7 @@
 ### Sub-Task - 50 Classes LEGO Single Bricks Classification
 * Use Logistic Regression, Simple Feed Forward Neural Networks, CNN, Transfer Learning on ResNet-18
 
-### Object Detection Task - Bricks detection
+### Object Detection Task - Bricks Detection on Composite LEGO models
 * Use Tiny-YOLO-v3 model to detect brick category in composite Lego and label them with corresponding bounding box.
 * Use YOLO v3 model to detect brick category in composite Lego and label them with corresponding bounding box.
 
