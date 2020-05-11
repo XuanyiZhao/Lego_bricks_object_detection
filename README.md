@@ -24,4 +24,4 @@ To run YOLO v3 model, use lego\_yolo\_v3.ipynb, execute the notebook line by lin
 * YOLO v3 (lego\_yolov3.zip): https://drive.google.com/open?id=1HeA2moEhyOZlrGA6baEY_bUH6QOMhLLQ
 
 ### Video Demo Link
-https://youtu.be/WZs-iwlfsUE
+* https://youtu.be/WZs-iwlfsUE
