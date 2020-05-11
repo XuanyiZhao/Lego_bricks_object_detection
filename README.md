@@ -14,9 +14,18 @@
 | CNN | 0.7084 | 0.0031 |
 | Transfer Learning on ResNet18 | 0.9647 | 0.0015 |
 
+Training Accuracy             |  Training Loss
+:-------------------------:|:-------------------------:
+![](Results/training_accuracy.png)  |  ![](Results/training_loss.png)
+
 ### Object Detection Task - Bricks Detection on Composite LEGO models
 * Use Tiny-YOLO-v3 model to detect brick category in composite Lego and label them with corresponding bounding box.
 * Use YOLO v3 model to detect brick category in composite Lego and label them with corresponding bounding box.
+
+| Models | Intersection over Union | Loss |
+| ------------- | :-------------: | :-------------: |
+| Tiny YOLO-v3 | 0.6169 | 1.8613 |
+| YOLO-v3 | 0.7309 | 0.9252 |
 
 ## Relevant files
 ### A List of Submitted Source Files
