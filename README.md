@@ -32,7 +32,7 @@ Tiny YOLO-v3 Prediction |  YOLO-v3 Prediction
 ![](Results/tiny_1.png)  |  ![](Results/v3_1.png)
 ![](Results/tiny_2.png)  |  ![](Results/v3_2.png)
 
-## Relevant files
+## Relevant Files
 ### A List of Submitted Source Files
 * data\_for\_colab\_lego.zip
 * lego\_tiny\_yolo.ipynb
