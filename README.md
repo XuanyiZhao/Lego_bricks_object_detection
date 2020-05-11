@@ -27,6 +27,11 @@ Training Accuracy             |  Training Loss
 | Tiny YOLO-v3 | 0.6169 | 1.8613 |
 | YOLO-v3 | 0.7309 | 0.9252 |
 
+Tiny YOLO-v3 Prediction |  YOLO-v3 Prediction
+:-------------------------:|:-------------------------:
+![](Results/tiny_1.png)  |  ![](Results/v3_1.png)
+![](Results/tiny_2.png)  |  ![](Results/v3_2.png)
+
 ## Relevant files
 ### A List of Submitted Source Files
 * data\_for\_colab\_lego.zip
