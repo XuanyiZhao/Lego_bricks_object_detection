@@ -4,7 +4,7 @@
 * https://youtu.be/WZs-iwlfsUE
 
 ## Overview of Work Accomplished
-### Sub-Task - 50 Classes LEGO Single Bricks Classification
+### Subtask - 50 Classes LEGO Single Bricks Classification
 * Use Logistic Regression, Simple Feed Forward Neural Networks, CNN, Transfer Learning on ResNet-18
 
 | Models | Accuracy | Loss |
