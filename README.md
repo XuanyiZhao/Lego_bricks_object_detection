@@ -1,5 +1,11 @@
 # Object Detection on LEGO images
 
+## Sub-Task
+* 50 classes LEGO single bricks classification
+
+## Object Detection Task
+* Bricks detection in composite LEGO models
+
 ### A List of Submitted Source Files
 * data\_for\_colab\_lego.zip
 * lego\_tiny\_yolo.ipynb
