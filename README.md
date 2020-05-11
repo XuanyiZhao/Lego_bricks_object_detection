@@ -18,9 +18,9 @@ Training Accuracy             |  Training Loss
 :-------------------------:|:-------------------------:
 ![](Results/training_accuracy.png)  |  ![](Results/training_loss.png)
 
-### Object Detection Task - Bricks Detection on Composite LEGO models
-* Use Tiny-YOLO-v3 model to detect brick category in composite Lego and label them with corresponding bounding box.
-* Use YOLO v3 model to detect brick category in composite Lego and label them with corresponding bounding box.
+### Object Detection Task - Bricks Detection on Assembled LEGO models
+* Use Tiny-YOLO-v3 model to detect brick category in assembled Lego and label them with corresponding bounding box.
+* Use YOLO v3 model to detect brick category in assembled Lego and label them with corresponding bounding box.
 
 | Models | Intersection over Union | Loss |
 | ------------- | :-------------: | :-------------: |
@@ -46,7 +46,7 @@ To run YOLO v3 model, use lego\_yolo\_v3.ipynb, execute the notebook line by lin
 
 ### Link for Datasets
 * Single LEGO brick pictures: https://drive.google.com/open?id=1WsmUQ5k73d4feTYSUtkfuR3ku3wyxBut
-* Composite LEGO pictures with labelled bounding boxes: https://drive.google.com/open?id=1_6U4-MlMWt20hc2wUZBX4yqybbmq4qhi
+* Assembled LEGO pictures with labelled bounding boxes: https://drive.google.com/open?id=1_6U4-MlMWt20hc2wUZBX4yqybbmq4qhi
 
 ### Link for YOLO Files
 * Tiny YOLO v3 (data\_for\_colab\_lego.zip): https://drive.google.com/open?id=1Lz4JUVdOhL4ulnJruJew59UMqTr5u292
